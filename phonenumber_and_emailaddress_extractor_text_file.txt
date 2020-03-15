@@ -1,0 +1,16 @@
+This is example text file
+which consist number of email address and phone number.
+
+This is sanskar maheshwari and my email address sssjfd002@gmail.com,
+my mobile number is 999 234 2344.
+
+This is random text below here.
+
+asdjkajhflkasjdlfjsdl
+asdgsd
+fgdgd 990-244-3243 and abcd01asd@yahoo.com.
+asdfasdfsdfadsf.
+
+NOTE: COPY THIS TEXT AND RUN THE PROGRAM. THEN BOOOOOMMMB.
+
+Thank you!.
